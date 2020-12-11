@@ -1,5 +1,7 @@
 ### sam-github-webhook-handler
 
+COPYRIGHT - This is NOT my work !! All rights belong to the owner of https://github.com/soumoks/sam-github-webhook-handler
+
 ![alt text](https://github-cf.sourabh.org/images/Github-webhook-handler_v2.png)
 
 This is a production ready github webhook handler built and deployed using [AWS SAM](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html).
